@@ -24,6 +24,7 @@ repositories {
 
 
 dependencies {
+	compile("org.springframework.boot:spring-boot-starter-thymeleaf")
 	compile('org.springframework.boot:spring-boot-starter-social-facebook')
 	compile('org.springframework.boot:spring-boot-starter-social-linkedin')
 	compile('org.springframework.boot:spring-boot-starter-social-twitter')
