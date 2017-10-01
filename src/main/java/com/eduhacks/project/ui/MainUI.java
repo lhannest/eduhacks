@@ -31,5 +31,7 @@ public class MainUI extends UI{
 			}
         	
         });
+        
+        layout.addComponent(button);
     }
 }
