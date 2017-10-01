@@ -1,4 +1,4 @@
-package com.passionfruitloops.eduhacks.controllers;
+package com.passionfruitloop.eduhacks.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
